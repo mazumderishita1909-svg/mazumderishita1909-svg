@@ -11,10 +11,10 @@
 ---
 
 ### 💻 About Me
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **[Your Tech/Framework]**
-- 💬 Ask me about **[Your Favorite Languages or Tech]**
-- ⚡ Fun fact: **[A fun fact about you, e.g., I love debugging at 3 AM 🌙]**
+- 🔭 I’m currently working on **[an tool that will help for bugbounty]**
+- 🌱 I’m currently learning **[ethical hacking]**
+- 💬 Ask me about **[html or bugbounty]**
+- ⚡ Fun fact: **[ I love debugging at 3 AM 🌙]**
 
 ---
 
